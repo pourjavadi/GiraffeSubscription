@@ -21,13 +21,8 @@
 ---
 
 ## Demo
-![1en](https://github.com/user-attachments/assets/db14fe19-42bb-4fd3-832f-2269c5881d17)
-![2endark](https://github.com/user-attachments/assets/ae865498-2801-42eb-83ad-7977b9970254)
-![1persian](https://github.com/user-attachments/assets/9c3edac6-b421-4757-b523-c93491ba7317)
-![2persiandark](https://github.com/user-attachments/assets/49988a71-7f86-46fc-9d3f-cfec46f7db5f)
-
-
-
+![light](https://github.com/user-attachments/assets/4358e4bb-f330-4295-9a7c-ad9218e75abf)
+![dark](https://github.com/user-attachments/assets/935bc901-a216-4fd0-ab5d-8b1366eca3ae)
 ---
 
 ## Installation

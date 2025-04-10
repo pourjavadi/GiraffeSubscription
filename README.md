@@ -1,12 +1,30 @@
-# Fly Subscription Template Marzban
+# Giraffe Subscription Template Marzban
 
-*A sleek, modern subscription dashboard template designed for Marzban, built with HTML, CSS, and JavaScript.*
+*A stylish and clean subscription dashboard template for Marzban, built with HTML, CSS, and JavaScript*
 
 ---
 
 ## Overview
 
-"Fly Subscription Template Marzban" is a beautifully designed, responsive subscription dashboard template tailored for the Marzban VPN panel. It features a glassmorphism UI, light/dark theme toggle, an accordion for configuration links, and QR code generation for easy sharing. This template is perfect for displaying user subscription details and providing download links for V2Ray clients across multiple platforms.
+"Giraffe Subscription Template Marzban" is a fresh, modern, and fully responsive subscription dashboard made specifically for the Marzban VPN Panel. With a smooth glassmorphism design, RTL support, theme switching, and dynamic QR code generation, this template offers a perfect blend of aesthetics and functionality to provide end-users with a seamless subscription experience.
+Features
+
+    Responsive Design: Perfectly adapts to mobile and desktop screens (optimized for small screens up to 480px).
+
+    Glassmorphism UI: Clean transparent cards with subtle blur and gradient accents.
+
+    Light/Dark Mode: Toggle between light and dark themes with a soft animated transition.
+
+    RTL Support: Fully supports Persian and other RTL languages.
+
+    Accordion for Configs: Click to expand and view V2Ray configuration links, with copy and QR code options.
+
+    Multi-Platform Icons: Font Awesome icons for all major platforms – Android, iOS, Windows, macOS, and Linux.
+
+    On-Demand QR Codes: Instantly generate QR codes for configuration links.
+
+    Smooth Animations: Polished user interface with fade-in and slide animations for a premium feel.
+    
 
 ### Features
 - **Responsive Design**: Optimized for all screen sizes (max-width: 480px for cards).
@@ -35,7 +53,7 @@ To use this template in your project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   sudo wget -N -P /var/lib/marzban/templates/subscription/ https://raw.githubusercontent.com/pourjavadi/FlySubscription/refs/heads/main/index.html
+   sudo wget -N -P /var/lib/marzban/templates/subscription/ https://raw.githubusercontent.com/pourjavadi/GiraffeSubscription/refs/heads/main/index.html
 2. **Run the following commands in your server terminal** :
    ```bash
    echo 'CUSTOM_TEMPLATES_DIRECTORY="/var/lib/marzban/templates/"' | sudo tee -a /opt/marzban/.env
